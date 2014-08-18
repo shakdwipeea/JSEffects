@@ -1,0 +1,43 @@
+body {
+
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: black;
+
+}
+
+a {
+  color: #00B7FF;
+}
+
+#fir {
+	text-align: center;
+	font-family: fantasy;
+	font-size: 63px;
+	color: #00bcde;
+	height: 750px;
+	width: 100%;
+	background: url('/images/er2.jpg') center ;
+}
+
+#sec {
+	text-align: center;
+	font-family: fantasy;
+	font-size: 63px;
+	color: #00bcde;
+	height: 750px;
+	width: 100%;
+	background: url('/images/er3.jpg') center ;
+
+}
+
+
+#third {
+	text-align: center;
+	font-family: fantasy;
+	font-size: 63px;
+	color: #00bcde;
+	height: 750px;
+	width: 100%;
+	background: url('/images/er1.jpg') center ;
+
+}
